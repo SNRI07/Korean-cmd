@@ -27,7 +27,7 @@ int main(){
 		}else if(s=="위치"){
             cout << "C:\\Users\\user>";
 		}else if(s=="출력"){
-			int temp;
+			string temp;
 			cin>>temp;
 			cout<<temp<<"\n";
 		}else if(s=="시간"){
