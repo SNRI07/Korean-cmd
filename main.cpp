@@ -26,7 +26,7 @@ int main(){
         	cout << "SusDevSoft [Version 1.9.7211.21]\n";
 		}else if(s=="위치"){
             cout << "C:\\Users\\user>";
-		}else if(s=="에코"){
+		}else if(s=="출력"){
 			int temp;
 			cin>>temp;
 			cout<<temp<<"\n";
